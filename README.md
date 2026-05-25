@@ -87,7 +87,7 @@
 
 Posts are published first on **[luci-studio.com/blog](https://luci-studio.com/blog)** and cross-posted to Medium.
 
-Read more on [luci-studio.com →](https://luci-studio.com/blog) · [Medium →](https://medium.com/@lapl1412.work)
+Read more on [luci-studio.com →](https://luci-studio.com/blog)
 
 ---
 
