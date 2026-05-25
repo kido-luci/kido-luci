@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luci 👋</h1>
-<h3 align="center">Flutter Engineer · Cross-Platform Mobile · Based in Ho Chi Minh City 🇻🇳</h3>
+<h3 align="center">Flutter Develop · Software Engineer · Based in Ho Chi Minh City 🇻🇳</h3>
 <p align="center"><i>Software Engineer & Flutter Developer — I build scalable web and cross-platform apps, from end-to-end encrypted messaging platforms to local LLM integrations. Turning hard problems into shipped products.</i></p>
 
 <p align="center">
