@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luci 👋</h1>
-<h3 align="center">Flutter Develop · Software Engineer · Based in Ho Chi Minh City 🇻🇳</h3>
+<h3 align="center">Flutter Developer · Software Engineer · Based in Ho Chi Minh City 🇻🇳</h3>
 <p align="center"><i>Software Engineer & Flutter Developer — I build scalable web and cross-platform apps, from end-to-end encrypted messaging platforms to local LLM integrations. Turning hard problems into shipped products.</i></p>
 
 <p align="center">
@@ -70,7 +70,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kido-luci&theme=tokyonight" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kido-luci&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kido-luci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kido-luci&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -85,9 +90,7 @@
 
 ### 📝 Latest Writing
 
-Posts are published first on **[luci-studio.com/blog](https://luci-studio.com/blog)** and cross-posted to Medium.
-
-Read more on [luci-studio.com →](https://luci-studio.com/blog)
+I write about Flutter, Go, and shipping real products — published first on **[luci-studio.com/blog](https://luci-studio.com/blog)** and cross-posted to [Medium](https://medium.com/@lapl1412.work).
 
 ---
 
