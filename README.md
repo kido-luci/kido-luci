@@ -9,7 +9,7 @@
   <a href="https://luci-studio.com/blog">
     <img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Blog" />
   </a>
-  <a href="https://www.linkedin.com/in/trung-l%E1%BA%ADp-luci-ba0b6a339/">
+  <a href="https://www.linkedin.com/in/kido-luci/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@lapl1412.work">
